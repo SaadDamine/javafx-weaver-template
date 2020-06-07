@@ -1,3 +1,3 @@
 # javafx-weaver-example
-Example repository for blog post about Spring Boot and JavaFX integration
+Example repository Spring Boot and JavaFX integration
 # javafx-weaver-template
